@@ -18,6 +18,7 @@ end
 group :development do
   gem 'rspec-rails', "~>2.8"
   gem 'sqlite3'
+  gem 'annotate'
 
 end
 
