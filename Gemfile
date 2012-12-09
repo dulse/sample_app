@@ -26,6 +26,7 @@ group :test do
 	gem 'rspec', "~> 2.8"
 	gem 'webrat'
 	gem 'sqlite3'
+	gem 'factory_girl_rails', '1.0'
 end
 
 group :production, :staging do
